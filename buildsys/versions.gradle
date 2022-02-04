@@ -1,0 +1,8 @@
+ext.versions = [
+        koin                 : '3.1.5',
+        lifecycle_version    : '2.2.0',
+        lifecyclecmns_version: '2.2.0',
+        kotlinx              : '1.6.0',
+        retrofit             : '2.6.1',
+        constraintlayout     : '2.1.3'
+]
